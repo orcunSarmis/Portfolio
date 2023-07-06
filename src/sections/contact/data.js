@@ -1,6 +1,6 @@
 import {HiOutlineMail} from 'react-icons/hi'
 import {ImLinkedin} from 'react-icons/im'
-import {FaWhatsapp} from 'react-icons/fa'
+// import {FaWhatsapp} from 'react-icons/fa'
 
 const data = [
     {id: 1, icon: <HiOutlineMail/>, link: 'mailto:yorcunsarmis@gmail.com'},
