@@ -5,12 +5,12 @@ import { Autoplay } from "swiper";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import "swiper/css/autoplay"
+import "swiper/css/autoplay";
 
 // import required modules
 import { Pagination } from "swiper/modules";
 
-import testimonials from './data'
+import testimonials from "./data";
 import "./testimonials.css";
 import Testimonial from "./Testimonial";
 
@@ -23,24 +23,22 @@ const Testimonials = () => {
         <Swiper
           slidesPerView={1}
           spaceBetween={30}
-		  breakpoints={{
-			601: {slidesPerView: 2},
-			1025: {slidesPerView: 3}
-		  }}
+          breakpoints={{
+            601: { slidesPerView: 2 },
+            1025: { slidesPerView: 3 },
+          }}
           pagination={{
             clickable: true,
           }}
           modules={[Pagination]}
-		  autoplay={true}
+          autoplay={true}
           className="mySwiper"
         >
-{
-	testimonials.map(testimonial => (
-		<SwiperSlide key={testimonial.id} >
-			<Testimonial testimonial={testimonial}/>
-		</SwiperSlide>
-	))
-}
+          {testimonials.map((testimonial) => (
+            <SwiperSlide key={testimonial.id}>
+              <Testimonial testimonial={testimonial} />
+            </SwiperSlide>
+          ))}
         </Swiper>
       </div>
     </section>
