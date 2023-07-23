@@ -15,17 +15,17 @@ const data = [
         image: Image1,
         title: "Project Title One (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
+        demo: 'https://orcunsarmis.github.io/Infinite-Scroll/',
         github: 'https://github.com/egattor'
     },
     {
         id: 2,
         category: 'frontend',
         image: Image2,
-        title: "Project Title Two (Frontend)",
+        title: "Infinite-Scroll (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://orcunsarmis.github.io/Infinite-Scroll/',
+        github: 'https://github.com/orcunSarmis/Infinite-Scroll'
     },
     {
         id: 3,
@@ -33,17 +33,17 @@ const data = [
         image: Image3,
         title: "Project Title Three (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://github.com/orcunSarmis/Been-There-React',
+        github: 'https://github.com/orcunSarmis/Been-There-React'
     },
     {
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "Shopping-Vue (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://github.com/orcunSarmis/Shopping-Vue',
+        github: 'https://github.com/orcunSarmis/Shopping-Vue'
     },
     {
         id: 5,
@@ -76,19 +76,19 @@ const data = [
         id: 8,
         category: 'backend',
         image: Image8,
-        title: "Project Title Eight (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Skl-Hub (Backend)",
+        desc: "Our application will facilitate money-free bartering system if possible or little money is needed, making it simple or find services they need and to offer their skills and talents to others.",
+        demo: 'https://warm-citadel-17427.herokuapp.com/',
+        github: 'https://github.com/sarahgormley/sklhub'
     },
     {
         id: 9,
-        category: 'frontend',
+        category: 'backend',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Community-Team (Frontend)",
+        desc: "CommuniTeam is an application about CommuniTeam exists to help new members to settle down, access the services they need, meet new people and feel welcome. ",
+        demo: 'https://github.com/orcunSarmis/Community-Team/tree/main',
+        github: 'https://github.com/orcunSarmis/Community-Team/tree/main'
     }
 ]
 
