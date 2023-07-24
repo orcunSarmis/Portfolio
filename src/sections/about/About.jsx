@@ -27,17 +27,19 @@ const About = () => {
           </div>
         </div>
         <p>
-          Building projects my clients love have always been my passion. Being
-          in the web development industry for over 2 years and serving more than
-          70 happy clients worldwide, I'm always motivated to do more!
+          Building projects that enable my clients to reach their goals is at the heart of what I do. Being
+          in the web development industry for close to 2 years, I'm looking for the next step in my career.
         </p>
         <p>
-          Hi, my name is Orcun Sarmis from Brisbane, Australia. I'm a full-stack
-          web developer with a Bachelors degree in Computer Science. My top
-          priority is to get your business online the right way, giving you
-          industry-standard design and all the functionality you need to operate
-          smoothly online. Get in touch today with the details of your project
-          let's get started! Check out my resume below!
+          A motivated and enthusiastic software engineering graduate with a
+          background in web-based development projects looking to launch a
+          career in Fullstack Development. Possessing a sound understanding of
+          current coding tools, frameworks and platforms, including HTML/CSS,
+          JavaScript, and React. Good communicator with excellent
+          problem-solving skills and the ability to quickly learn new
+          technologies. Seeking further experience within this field in an
+          entry-level role where I can utilize my technical skills and develop
+          knowledge through continuous learning.
         </p>
         <a href={Cv} download className="btn primary">
           Download CV <HiDownload />
